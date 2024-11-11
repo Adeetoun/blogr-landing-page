@@ -243,7 +243,7 @@ h4{
 }
 @media(max-width: 768px) {
     body{
-        width: 90%;
+        width: 100%;
     }
     .container{
         background-image: url('images/bg-pattern-intro-mobile.svg');
