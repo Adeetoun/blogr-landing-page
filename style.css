@@ -361,11 +361,12 @@ h4{
         display: flex;
         flex-direction: column;
         width: 100%;
-        height: 70vh;
+        height: 100vh;
         align-items: center;
         justify-content: center;
     }
     .section2 .flex3 img{
+        margin-top: 20px;
         width: 80%;
     }
     .section2 .flex4{
@@ -383,10 +384,8 @@ h4{
         width: 100%;
         justify-content: center;
         align-items: center;
-        height: 100vh;
     }
     .section3 .flex5 img{
-        margin-top: 20px;
         width: 220%;
     }
     .section3 .flex6{
